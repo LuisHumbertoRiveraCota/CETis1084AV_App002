@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CETis1084AV_App002</string>
+    <string name="etxt1"></string>
+    <string name="etxt2"></string>
+    <string name="btnSuma">Suma</string>
+    <string name="btnResta">Resta</string>
+    <string name="btnMultiplicacion">Multiplicacion</string>
+    <string name="btnDivicion">Division</string>
+    <string name="txtvResultado">0.0</string>
+</resources>
